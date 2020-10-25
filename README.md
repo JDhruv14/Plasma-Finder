@@ -27,6 +27,8 @@ This way by establishing a common platform to find a Plasma Donor. We sincerely 
 **Every Donor is a Life Savior. So Donate Blood, Save Lives!**
 
 ## Screenshots
+
+![](https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/Banner.jpg)
 ![](https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/ss1.jpg)
 ![](https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/ss2.jpg)
 ![](https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/ss3.jpg)
