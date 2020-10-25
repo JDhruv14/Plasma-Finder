@@ -1,5 +1,5 @@
 <h1>Plasma-Finder</h1>
-<img alt="LOGO" align="right" height="250" src="./screenshots/logo.png" />
+<img alt="LOGO" align="right" height="250" src="https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/Logo.jpg" />
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="adsasd" target="_blank">
