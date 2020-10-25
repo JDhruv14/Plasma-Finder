@@ -30,7 +30,7 @@ This way by establishing a common platform to find a Plasma Donor. We sincerely 
 ![](https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/ss1.jpg)
 ![](https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/ss2.jpg)
 ![](https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/ss3.jpg)
-![](https://github.com/NitishGadangi/FindPlasmaApp/blob/master/screenshots/ss4.jpg?raw=true)
+![](https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/ss4.jpg)
 
 ## Want to try the app?
 #### [Please Watch the Demo Video](https://vimeo.com/448270615)
