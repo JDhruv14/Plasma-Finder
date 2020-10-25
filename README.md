@@ -33,10 +33,10 @@ This way by establishing a common platform to find a Plasma Donor. We sincerely 
 ![](https://github.com/JDhruv14/Plasma-Finder/blob/main/screenshots/ss4.jpg)
 
 ## Want to try the app?
-#### [Please Watch the Demo Video](https://vimeo.com/448270615)
+#### [Please Watch the Demo Video](https://vimeo.com/471877850)
 
 Check out the releases tab download the functional prototype
-[Download here](https://drive.google.com/file/d/1YfTz-NeSqCwC5yIuvsajGuamMAPr64n2/view?usp=sharing)
+[Download here](https://drive.google.com/file/d/1wX3tJE-hqJjgfZDXoJ8f79DV7yO1GCdu/view?usp=sharing)
 
 ## How to Edit Files
 
